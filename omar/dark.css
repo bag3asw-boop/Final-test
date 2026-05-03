@@ -1,9 +1,24 @@
 body{
-    background-color: #383840;
+    background-color: #232227;
 }
 .head{
-    background-color: white;
+
 }
-.foot{
-        background-color: white;
+.links a{
+    color: white;
+}
+
+.order{
+    background-color: #595856;
+}
+.book1,.book2{
+    background-color: #595856;
+    border-radius: 20px;
+}
+.yourcart{
+    color: white;
+    font-family:"Newsreader", serif;
+}
+.pp{
+    color: #D4AD6C;
 }
