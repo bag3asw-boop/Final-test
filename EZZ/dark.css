@@ -100,7 +100,7 @@ body{
     color: #D99544;
 }
 main{
-    min-height:1000px;
+    min-height:350vh;
     display: flex;
 }
 
